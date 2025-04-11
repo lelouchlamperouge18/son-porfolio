@@ -30,7 +30,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <AdvancedSection imageUrl="QEa8xBjMCCQ" title="Hoang Cong Son" overTitle="MY 1ST YOUTUBE CHANNEL">
             <p>
               I hope you enjoy my adventure videos 💌{' '}
-              <Link href="https://www.youtube.com/@hoangcongson4146" passHref>
+              <Link href="https://www.youtube.com/@hoangcongson4146">
                 <a href="https://www.youtube.com/@hoangcongson4146" target="_blank" rel="noopener noreferrer">
                   𝚂𝚊𝚟𝚎 𝚝𝚑𝚎 𝚖𝚎𝚖𝚘𝚛𝚒𝚎𝚜
                 </a>
@@ -40,7 +40,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <AdvancedSection imageUrl="5zVoeHwAAJo" title="Learn Frontend With Son" overTitle="MY 2ND YOUTUBE CHANNEL" reversed>
             <p>
               Frontend Programming Tutorial 💌{' '}
-              <Link href="https://www.youtube.com/@learnfewithson" passHref>
+              <Link href="https://www.youtube.com/@learnfewithson">
                 <a href="https://www.youtube.com/@learnfewithson" target="_blank" rel="noopener noreferrer">
                   Take a look now
                 </a>
